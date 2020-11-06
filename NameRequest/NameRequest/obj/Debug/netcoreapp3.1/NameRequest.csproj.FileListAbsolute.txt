@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\NameRequest\NameRequest\bin\Debug\netcoreapp3.1\NameRequest.exe
+C:\Users\evolu\source\repos\NameRequest\NameRequest\bin\Debug\netcoreapp3.1\NameRequest.deps.json
+C:\Users\evolu\source\repos\NameRequest\NameRequest\bin\Debug\netcoreapp3.1\NameRequest.runtimeconfig.json
+C:\Users\evolu\source\repos\NameRequest\NameRequest\bin\Debug\netcoreapp3.1\NameRequest.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\NameRequest\NameRequest\bin\Debug\netcoreapp3.1\NameRequest.dll
+C:\Users\evolu\source\repos\NameRequest\NameRequest\bin\Debug\netcoreapp3.1\NameRequest.pdb
+C:\Users\evolu\source\repos\NameRequest\NameRequest\obj\Debug\netcoreapp3.1\NameRequest.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\NameRequest\NameRequest\obj\Debug\netcoreapp3.1\NameRequest.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\NameRequest\NameRequest\obj\Debug\netcoreapp3.1\NameRequest.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\NameRequest\NameRequest\obj\Debug\netcoreapp3.1\NameRequest.AssemblyInfo.cs
+C:\Users\evolu\source\repos\NameRequest\NameRequest\obj\Debug\netcoreapp3.1\NameRequest.dll
+C:\Users\evolu\source\repos\NameRequest\NameRequest\obj\Debug\netcoreapp3.1\NameRequest.pdb
+C:\Users\evolu\source\repos\NameRequest\NameRequest\obj\Debug\netcoreapp3.1\NameRequest.genruntimeconfig.cache

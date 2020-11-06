@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\RosterCount\RosterCount\bin\Debug\netcoreapp3.1\RosterCount.exe
+C:\Users\evolu\source\repos\RosterCount\RosterCount\bin\Debug\netcoreapp3.1\RosterCount.deps.json
+C:\Users\evolu\source\repos\RosterCount\RosterCount\bin\Debug\netcoreapp3.1\RosterCount.runtimeconfig.json
+C:\Users\evolu\source\repos\RosterCount\RosterCount\bin\Debug\netcoreapp3.1\RosterCount.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\RosterCount\RosterCount\bin\Debug\netcoreapp3.1\RosterCount.dll
+C:\Users\evolu\source\repos\RosterCount\RosterCount\bin\Debug\netcoreapp3.1\RosterCount.pdb
+C:\Users\evolu\source\repos\RosterCount\RosterCount\obj\Debug\netcoreapp3.1\RosterCount.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\RosterCount\RosterCount\obj\Debug\netcoreapp3.1\RosterCount.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\RosterCount\RosterCount\obj\Debug\netcoreapp3.1\RosterCount.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\RosterCount\RosterCount\obj\Debug\netcoreapp3.1\RosterCount.AssemblyInfo.cs
+C:\Users\evolu\source\repos\RosterCount\RosterCount\obj\Debug\netcoreapp3.1\RosterCount.dll
+C:\Users\evolu\source\repos\RosterCount\RosterCount\obj\Debug\netcoreapp3.1\RosterCount.pdb
+C:\Users\evolu\source\repos\RosterCount\RosterCount\obj\Debug\netcoreapp3.1\RosterCount.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\evolu\source\repos\Section7\Class Library Project Types\Library0\ClassLibraryDemoApp\FrameworkLib\bin\Debug\FrameworkLib.dll
+C:\Users\evolu\source\repos\Section7\Class Library Project Types\Library0\ClassLibraryDemoApp\FrameworkLib\bin\Debug\FrameworkLib.pdb
+C:\Users\evolu\source\repos\Section7\Class Library Project Types\Library0\ClassLibraryDemoApp\FrameworkLib\obj\Debug\FrameworkLib.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Section7\Class Library Project Types\Library0\ClassLibraryDemoApp\FrameworkLib\obj\Debug\FrameworkLib.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Section7\Class Library Project Types\Library0\ClassLibraryDemoApp\FrameworkLib\obj\Debug\FrameworkLib.dll
+C:\Users\evolu\source\repos\Section7\Class Library Project Types\Library0\ClassLibraryDemoApp\FrameworkLib\obj\Debug\FrameworkLib.pdb

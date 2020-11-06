@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\arrReturn\arrReturn\bin\Debug\netcoreapp3.1\arrReturn.exe
+C:\Users\evolu\source\repos\arrReturn\arrReturn\bin\Debug\netcoreapp3.1\arrReturn.deps.json
+C:\Users\evolu\source\repos\arrReturn\arrReturn\bin\Debug\netcoreapp3.1\arrReturn.runtimeconfig.json
+C:\Users\evolu\source\repos\arrReturn\arrReturn\bin\Debug\netcoreapp3.1\arrReturn.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\arrReturn\arrReturn\bin\Debug\netcoreapp3.1\arrReturn.dll
+C:\Users\evolu\source\repos\arrReturn\arrReturn\bin\Debug\netcoreapp3.1\arrReturn.pdb
+C:\Users\evolu\source\repos\arrReturn\arrReturn\obj\Debug\netcoreapp3.1\arrReturn.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\arrReturn\arrReturn\obj\Debug\netcoreapp3.1\arrReturn.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\arrReturn\arrReturn\obj\Debug\netcoreapp3.1\arrReturn.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\arrReturn\arrReturn\obj\Debug\netcoreapp3.1\arrReturn.AssemblyInfo.cs
+C:\Users\evolu\source\repos\arrReturn\arrReturn\obj\Debug\netcoreapp3.1\arrReturn.dll
+C:\Users\evolu\source\repos\arrReturn\arrReturn\obj\Debug\netcoreapp3.1\arrReturn.pdb
+C:\Users\evolu\source\repos\arrReturn\arrReturn\obj\Debug\netcoreapp3.1\arrReturn.genruntimeconfig.cache

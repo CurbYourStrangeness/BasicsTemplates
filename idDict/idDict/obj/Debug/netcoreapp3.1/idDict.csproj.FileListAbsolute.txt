@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\idDict\idDict\bin\Debug\netcoreapp3.1\idDict.exe
+C:\Users\evolu\source\repos\idDict\idDict\bin\Debug\netcoreapp3.1\idDict.deps.json
+C:\Users\evolu\source\repos\idDict\idDict\bin\Debug\netcoreapp3.1\idDict.runtimeconfig.json
+C:\Users\evolu\source\repos\idDict\idDict\bin\Debug\netcoreapp3.1\idDict.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\idDict\idDict\bin\Debug\netcoreapp3.1\idDict.dll
+C:\Users\evolu\source\repos\idDict\idDict\bin\Debug\netcoreapp3.1\idDict.pdb
+C:\Users\evolu\source\repos\idDict\idDict\obj\Debug\netcoreapp3.1\idDict.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\idDict\idDict\obj\Debug\netcoreapp3.1\idDict.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\idDict\idDict\obj\Debug\netcoreapp3.1\idDict.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\idDict\idDict\obj\Debug\netcoreapp3.1\idDict.AssemblyInfo.cs
+C:\Users\evolu\source\repos\idDict\idDict\obj\Debug\netcoreapp3.1\idDict.dll
+C:\Users\evolu\source\repos\idDict\idDict\obj\Debug\netcoreapp3.1\idDict.pdb
+C:\Users\evolu\source\repos\idDict\idDict\obj\Debug\netcoreapp3.1\idDict.genruntimeconfig.cache

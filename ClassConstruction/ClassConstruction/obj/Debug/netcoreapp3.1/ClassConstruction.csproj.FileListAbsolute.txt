@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\bin\Debug\netcoreapp3.1\ClassConstruction.exe
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\bin\Debug\netcoreapp3.1\ClassConstruction.deps.json
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\bin\Debug\netcoreapp3.1\ClassConstruction.runtimeconfig.json
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\bin\Debug\netcoreapp3.1\ClassConstruction.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\bin\Debug\netcoreapp3.1\ClassConstruction.dll
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\bin\Debug\netcoreapp3.1\ClassConstruction.pdb
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\obj\Debug\netcoreapp3.1\ClassConstruction.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\obj\Debug\netcoreapp3.1\ClassConstruction.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\obj\Debug\netcoreapp3.1\ClassConstruction.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\obj\Debug\netcoreapp3.1\ClassConstruction.AssemblyInfo.cs
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\obj\Debug\netcoreapp3.1\ClassConstruction.dll
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\obj\Debug\netcoreapp3.1\ClassConstruction.pdb
+C:\Users\evolu\source\repos\ClassConstruction\ClassConstruction\obj\Debug\netcoreapp3.1\ClassConstruction.genruntimeconfig.cache

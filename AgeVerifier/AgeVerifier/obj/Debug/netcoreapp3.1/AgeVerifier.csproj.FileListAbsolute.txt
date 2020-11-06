@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\bin\Debug\netcoreapp3.1\AgeVerifier.exe
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\bin\Debug\netcoreapp3.1\AgeVerifier.deps.json
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\bin\Debug\netcoreapp3.1\AgeVerifier.runtimeconfig.json
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\bin\Debug\netcoreapp3.1\AgeVerifier.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\bin\Debug\netcoreapp3.1\AgeVerifier.dll
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\bin\Debug\netcoreapp3.1\AgeVerifier.pdb
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\obj\Debug\netcoreapp3.1\AgeVerifier.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\obj\Debug\netcoreapp3.1\AgeVerifier.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\obj\Debug\netcoreapp3.1\AgeVerifier.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\obj\Debug\netcoreapp3.1\AgeVerifier.AssemblyInfo.cs
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\obj\Debug\netcoreapp3.1\AgeVerifier.dll
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\obj\Debug\netcoreapp3.1\AgeVerifier.pdb
+C:\Users\evolu\source\repos\AgeVerifier\AgeVerifier\obj\Debug\netcoreapp3.1\AgeVerifier.genruntimeconfig.cache

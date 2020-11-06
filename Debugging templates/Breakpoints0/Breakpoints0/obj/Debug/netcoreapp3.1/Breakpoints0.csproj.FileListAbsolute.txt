@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\bin\Debug\netcoreapp3.1\Breakpoints0.exe
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\bin\Debug\netcoreapp3.1\Breakpoints0.deps.json
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\bin\Debug\netcoreapp3.1\Breakpoints0.runtimeconfig.json
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\bin\Debug\netcoreapp3.1\Breakpoints0.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\bin\Debug\netcoreapp3.1\Breakpoints0.dll
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\bin\Debug\netcoreapp3.1\Breakpoints0.pdb
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\obj\Debug\netcoreapp3.1\Breakpoints0.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\obj\Debug\netcoreapp3.1\Breakpoints0.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\obj\Debug\netcoreapp3.1\Breakpoints0.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\obj\Debug\netcoreapp3.1\Breakpoints0.AssemblyInfo.cs
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\obj\Debug\netcoreapp3.1\Breakpoints0.dll
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\obj\Debug\netcoreapp3.1\Breakpoints0.pdb
+C:\Users\evolu\source\repos\Debugging templates\Breakpoints0\Breakpoints0\obj\Debug\netcoreapp3.1\Breakpoints0.genruntimeconfig.cache

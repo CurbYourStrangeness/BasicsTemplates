@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\bin\Debug\netcoreapp3.1\exceptionCatch0.exe
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\bin\Debug\netcoreapp3.1\exceptionCatch0.deps.json
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\bin\Debug\netcoreapp3.1\exceptionCatch0.runtimeconfig.json
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\bin\Debug\netcoreapp3.1\exceptionCatch0.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\bin\Debug\netcoreapp3.1\exceptionCatch0.dll
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\bin\Debug\netcoreapp3.1\exceptionCatch0.pdb
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\obj\Debug\netcoreapp3.1\exceptionCatch0.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\obj\Debug\netcoreapp3.1\exceptionCatch0.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\obj\Debug\netcoreapp3.1\exceptionCatch0.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\obj\Debug\netcoreapp3.1\exceptionCatch0.AssemblyInfo.cs
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\obj\Debug\netcoreapp3.1\exceptionCatch0.dll
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\obj\Debug\netcoreapp3.1\exceptionCatch0.pdb
+C:\Users\evolu\source\repos\Debugging templates\exceptionCatch0\exceptionCatch0\obj\Debug\netcoreapp3.1\exceptionCatch0.genruntimeconfig.cache

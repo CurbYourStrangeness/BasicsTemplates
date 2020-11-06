@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifierExperiment", "AccessModifierExperiment\AccessModifierExperiment.csproj", "{ACE34036-FC7B-4BA3-80EB-36C3DC681490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaBoyos", "PharmaBoyos\PharmaBoyos.csproj", "{CD14718C-FE13-4E7B-A5E4-0214097F400F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE34036-FC7B-4BA3-80EB-36C3DC681490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE34036-FC7B-4BA3-80EB-36C3DC681490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE34036-FC7B-4BA3-80EB-36C3DC681490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE34036-FC7B-4BA3-80EB-36C3DC681490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD14718C-FE13-4E7B-A5E4-0214097F400F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD14718C-FE13-4E7B-A5E4-0214097F400F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD14718C-FE13-4E7B-A5E4-0214097F400F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD14718C-FE13-4E7B-A5E4-0214097F400F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D005BCD2-9237-4E2B-9A28-D20B0BF4F97A}
+	EndGlobalSection
+EndGlobal

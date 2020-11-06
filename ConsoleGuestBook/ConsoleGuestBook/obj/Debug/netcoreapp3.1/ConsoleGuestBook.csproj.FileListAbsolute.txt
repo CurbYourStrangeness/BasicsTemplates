@@ -1,0 +1,13 @@
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\bin\Debug\netcoreapp3.1\ConsoleGuestBook.exe
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\bin\Debug\netcoreapp3.1\ConsoleGuestBook.deps.json
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\bin\Debug\netcoreapp3.1\ConsoleGuestBook.runtimeconfig.json
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\bin\Debug\netcoreapp3.1\ConsoleGuestBook.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\bin\Debug\netcoreapp3.1\ConsoleGuestBook.dll
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\bin\Debug\netcoreapp3.1\ConsoleGuestBook.pdb
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\obj\Debug\netcoreapp3.1\ConsoleGuestBook.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\obj\Debug\netcoreapp3.1\ConsoleGuestBook.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\obj\Debug\netcoreapp3.1\ConsoleGuestBook.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\obj\Debug\netcoreapp3.1\ConsoleGuestBook.AssemblyInfo.cs
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\obj\Debug\netcoreapp3.1\ConsoleGuestBook.dll
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\obj\Debug\netcoreapp3.1\ConsoleGuestBook.pdb
+C:\Users\evolu\source\repos\ConsoleGuestBook\ConsoleGuestBook\obj\Debug\netcoreapp3.1\ConsoleGuestBook.genruntimeconfig.cache
